@@ -1,5 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&text=Challenging+Data+Engineer&fontSize=50&fontAlign=50&fontAlignY=40&desc=Passion%2C+Challenge%2C+Sincerity&descSize=20&descAlign=50&descAlignY=60)
 
+<img src='https://x.tw93.fun/images/hi.gif' alt='Hi' width="20"/> Hi,I'm seongju Jeong
 
 
 
@@ -32,8 +33,6 @@
 [![Tistory](https://img.shields.io/badge/tistory-000000.svg?&style=for-the-badge&logo=tistory&logoColor=white)](https://koreatstm.tistory.com/)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%EC%84%B1%EC%A3%BC-%EC%A0%95-3a232b307/)
 
-
-<img src='https://x.tw93.fun/images/hi.gif' alt='Hi' width="20"/> Hi,I'm seongju Jeong
 
 <table width="960px">
 <tr>
