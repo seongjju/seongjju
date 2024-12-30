@@ -3,7 +3,10 @@
 
 
 
-### 🦾 Skills
+### <img src="https://media.giphy.com/media/26tPPhQ0gx1Xjpo7C/giphy.gif" alt="Robot Arm" width="30"/> Skills
+<img src="https://media.giphy.com/media/3o7btYqIFywppdk1xo/giphy.gif" alt="Laptop" width="30"/> 💻
+<img src="https://media.giphy.com/media/26tQnKz9uOogz3FiY/giphy.gif" alt="Tools" width="30"/> 🛠️
+<img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="Waving Hand" width="30"/> 👋
 
 **💻 Lang and Frameworks**
 
