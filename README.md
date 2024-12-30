@@ -51,7 +51,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=seongjju&theme=tokyonight&show_icons=true" style="width: 400px;" />
 </td>
 
-<td valign="top" width="50%" style="vertical-align: top;">
+<td valign="top" width="45%" style="vertical-align: top;">
 
 #### 🏆 Top Langs
 
