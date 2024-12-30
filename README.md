@@ -30,7 +30,7 @@
 
 <style>
   a {
-    text-decoration: none; /* 밑줄 제거 */
+    text-decoration: none; 
   }
 </style>
 <p>
