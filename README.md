@@ -3,8 +3,6 @@
 ### 🚩 Algorithm Ranking
 [![Algorithm Ranking](https://mazassumnida.wtf/api/v2/generate_badge?boj=koreatstm)](https://solved.ac/profile/koreatstm)
 
-### 🚌 Top Langs
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seongjju&layout=compact)
 
 <h2>GitHub Stats</h2>
 <p><img src="https://github-readme-stats.vercel.app/api?username=seongjju&amp;show_icons=true" alt="GitHub Stats"></p>
@@ -31,13 +29,8 @@
 <tr>
 <td valign="top" width="50%">
 
-#### 🏊‍♂️ Weekly Development Breakdown
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://x.tw93.fun/images/wakatime_weekly_language_stats_black.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://x.tw93.fun/images/wakatime_weekly_language_stats.svg">
-  <img src="https://x.tw93.fun/images/wakatime_weekly_language_stats.svg">
-</picture>
+### 🚌 Top Langs
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seongjju&layout=compact)
 
 </td>
 <td valign="top" width="50%">
