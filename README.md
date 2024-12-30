@@ -3,12 +3,8 @@
 
 
 
-### <img src="https://media.giphy.com/media/26tPPhQ0gx1Xjpo7C/giphy.gif" alt="Robot Arm" width="30"/> Skills
-
-<img src="https://media.giphy.com/media/3o6ZsVRff52hztdrSo/giphy.gif" alt="Robot Arm" width="30"/> 🦾
-<img src="https://media.giphy.com/media/JpwhDoPONbZmE/giphy.gif" alt="Laptop" width="30"/> 💻
-<img src="https://media.giphy.com/media/xT0xeJpnvTCe72KHt6/giphy.gif" alt="Tools" width="30"/> 🛠️
-<img src="https://media.giphy.com/media/26AOWvB9nS2XaGHXy/giphy.gif" alt="Waving Hand" width="30"/> 👋
+### 🦾 Skills
+<img src='https://x.tw93.fun/images/hi.gif' alt='Hi' width="20"/> Hi,I'm seongju Jeong
 
 
 **💻 Lang and Frameworks**
