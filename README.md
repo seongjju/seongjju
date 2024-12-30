@@ -47,17 +47,6 @@
 <td valign="top" width="50%">
 
 
-<h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
-
-<p align="center">
-<a href="s">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seongjju&exclude_repo=seongjju.github.io&layout=compact&theme=tokyonight" />
-</a>
-<a href="s">
-  <img src="https://github-readme-stats.vercel.app/api?username=seongjju&theme=tokyonight&show_icons=true" width="42%" />
-</a>
-</p>
-
 
 #### 📝 GitHub Stats
 
