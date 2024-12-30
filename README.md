@@ -27,11 +27,10 @@
 ![Slack](https://img.shields.io/badge/slack-4A154B.svg?&style=for-the-badge&logo=slack&logoColor=white)
 
 ### 👋 Contact me 
+[![Portfolio](https://img.shields.io/badge/portfolio-000000.svg?&style=for-the-badge&logo=portfolio&logoColor=white)](https://www.seongjudev.link) 
 [![GitHub](https://img.shields.io/badge/github-181717.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/seongjju)
 [![Tistory](https://img.shields.io/badge/tistory-000000.svg?&style=for-the-badge&logo=tistory&logoColor=white)](https://koreatstm.tistory.com/)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%EC%84%B1%EC%A3%BC-%EC%A0%95-3a232b307/)
-[![Portfolio](https://img.shields.io/badge/portfolio-000000.svg?&style=for-the-badge&logo=portfolio&logoColor=white)](https://your-portfolio-link.com) <!-- 여기에 포트폴리오 링크를 추가 -->
-
 
 
 <img src='https://x.tw93.fun/images/hi.gif' alt='Hi' width="20"/> Hi,I'm seongju Jeong
