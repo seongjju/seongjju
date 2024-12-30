@@ -4,8 +4,6 @@
 
 
 ### 🦾 Skills
-<img src='https://x.tw93.fun/images/hi.gif' alt='Hi' width="20"/> Hi,I'm seongju Jeong
-
 
 **💻 Lang and Frameworks**
 
