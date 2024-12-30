@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=360&text=Challenging+Data+Engineer&fontSize=50&fontAlign=50&fontAlignY=40&desc=Passion%2C+Challenge%2C+Sincerity&descSize=20&descAlign=50&descAlignY=60)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&text=Challenging+Data+Engineer&fontSize=50&fontAlign=50&fontAlignY=40&desc=Passion%2C+Challenge%2C+Sincerity&descSize=20&descAlign=50&descAlignY=60)
 
 
 
@@ -6,6 +6,7 @@
 ### 🦾 Skills
 
 **🧑‍💻 Lang and Frameworks**
+
 ![Java](https://img.shields.io/badge/Java-000000.svg?&style=for-the-badge) 
 ![Kotlin](https://img.shields.io/badge/kotlin-7F52FF.svg?&style=for-the-badge&logo=kotlin&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white) 
