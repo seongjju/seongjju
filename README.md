@@ -65,14 +65,14 @@
 </td>  
 <td valign="top" width="50%">
 
-#### 🤾‍♂️ Recent Blog
+#### 🔥 Reader Favorites
 <p><a href="https://koreatstm.tistory.com/">➡️ More blog posts</a></p>
 
 <!-- blog starts -->
-* <a href='https://koreatstm.tistory.com/214' target='_blank'>빅데이터 커리어 가이드북</a> - 2024-12-24
-* <a href='https://koreatstm.tistory.com/213' target='_blank'>Docker Image</a> - 2024-12-06
-* <a href='https://koreatstm.tistory.com/212' target='_blank'>Use Docker</a> - 2024-12-05
-* <a href='https://koreatstm.tistory.com/211' target='_blank'>Container&Docker</a> - 2024-12-04
+* <a href='https://koreatstm.tistory.com/158' target='_blank'>AWS SAA-C03 후기</a> - 2024-08-29
+* <a href='https://koreatstm.tistory.com/147' target='_blank'>TOPCIT 후기</a> - 2024-06-25
+* <a href='https://koreatstm.tistory.com/194' target='_blank'>SAA 드디어 땄다!!! 🥳🥳🥳🥳</a> - 2024-09-20
+* <a href='https://koreatstm.tistory.com/146' target='_blank'>SQLD 합격 후기</a> - 2024-06-25
 * <a href='https://koreatstm.tistory.com/210' target='_blank'>우리 FISA AI엔지니어링 지원 후기</a> - 2024-11-28
 
 
