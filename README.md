@@ -27,9 +27,9 @@
 ![Slack](https://img.shields.io/badge/slack-4A154B.svg?&style=for-the-badge&logo=slack&logoColor=white)
 
 ### 👋 Contact me 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%EC%84%B1%EC%A3%BC-%EC%A0%95-3a232b307/)
 [![GitHub](https://img.shields.io/badge/github-181717.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/seongjju)
 [![Tistory](https://img.shields.io/badge/tistory-000000.svg?&style=for-the-badge&logo=tistory&logoColor=white)](https://koreatstm.tistory.com/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%EC%84%B1%EC%A3%BC-%EC%A0%95-3a232b307/)
 
 
 
