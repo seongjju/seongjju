@@ -28,6 +28,11 @@
 
 ### 🦾 Contact me 
 
+<style>
+  a {
+    text-decoration: none; /* 밑줄 제거 */
+  }
+</style>
 <p>
   <a href="https://www.linkedin.com/in/%EC%84%B1%EC%A3%BC-%EC%A0%95-3a232b307/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="25">
