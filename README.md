@@ -18,7 +18,7 @@
 
 ## Hello, World
 
-<img src='https://x.tw93.fun/images/hi.gif' alt='Hi' width="20"/> Hi, I'm Tw93, a Frontend Engineer from China, also dabbling a bit in Swift, Rust, Python, and Sketch. I'm the creator of [MiaoYan](https://miaoyan.app/), [Pake](https://github.com/tw93/pake), [Trendy Weekly](https://weekly.tw93.fun/), [XRender](https://xrender.fun/), and [WeexUi](https://apache.github.io/incubator-weex-ui/). Believing in long-termism, I am passionate about open source and enjoy experimenting with new ideas. The content below is automatically updated via <a href="https://github.com/tw93/tw93/actions" target="_blank">Actions</a>:
+<img src='https://x.tw93.fun/images/hi.gif' alt='Hi' width="20"/> Hi,I'm seongju Jeong
 
 <table width="960px">
 <tr>
@@ -55,18 +55,9 @@
 
 #### 👋 GitHub Stats
 
-<!-- weekly starts -->
 
-
-<h2>GitHub Stats</h2>
 <p><img src="https://github-readme-stats.vercel.app/api?username=seongjju&amp;show_icons=true" alt="GitHub Stats"></p>
 
-* <a href='https://weekly.tw93.fun/posts/206-%E6%A0%87%E8%87%B4%E7%9A%84%E7%8B%97/' target='_blank'>第206期 - 标致的狗</a> - 2024-12-30
-* <a href='https://weekly.tw93.fun/posts/205-%E5%90%AC%E5%BC%A0%E4%BF%A1%E5%93%B2/' target='_blank'>第205期 - 听张信哲</a> - 2024-12-23
-* <a href='https://weekly.tw93.fun/posts/204-%E8%82%89%E6%A1%82%E6%8B%BF%E9%93%81/' target='_blank'>第204期 - 肉桂拿铁</a> - 2024-12-16
-* <a href='https://weekly.tw93.fun/posts/203-%E9%93%B6%E6%9D%8F%E5%AD%A3%E8%8A%82/' target='_blank'>第203期 - 银杏季节</a> - 2024-12-09
-* <a href='https://weekly.tw93.fun/posts/202-%E5%A4%95%E9%98%B3%E8%A5%BF%E4%B8%8B/' target='_blank'>第202期 - 夕阳西下</a> - 2024-12-02
-<!-- weekly ends -->
 
 </td>
 </tr>
