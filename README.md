@@ -1,9 +1,10 @@
-## Hi there 👋
-
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=360&text=Challenging+Data+Engineer&fontSize=50&fontAlign=50&fontAlignY=40&desc=Passion%2C+Challenge%2C+Sincerity&descSize=20&descAlign=50&descAlignY=60)
 
 ### 🚩 Algorithm Ranking
 [![Algorithm Ranking](https://mazassumnida.wtf/api/v2/generate_badge?boj=koreatstm)](https://solved.ac/profile/koreatstm)
+
+### 🚌 Top Langs
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seongjju&layout=donut)
 
 ### 🦾 Skills
 **🧑‍💻 Lang and Frameworks**
