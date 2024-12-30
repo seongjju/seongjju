@@ -39,15 +39,16 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seongjju&layout=compact)
 
 </td>
+
+</tr>
+<tr>
 <td valign="top" width="50%">
 
 #### 🚩 Algorithm Ranking
 
 [![Algorithm Ranking](https://mazassumnida.wtf/api/v2/generate_badge?boj=koreatstm)](https://solved.ac/profile/koreatstm)
 
-</td>
-</tr>
-<tr>
+</td>  
 <td valign="top" width="50%">
 
 #### 🤾‍♂️ <a href="https://koreatstm.tistory.com/" target="_blank">Recent Blog</a>
