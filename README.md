@@ -51,7 +51,7 @@
 #### 📝 GitHub Stats
 
 
- <p><img src="https://github-readme-stats.vercel.app/api?username=seongjju&theme=tokyonight&show_icons=true" width="42%" /></p>
+ <img src="https://github-readme-stats.vercel.app/api?username=seongjju&theme=tokyonight&show_icons=true" width="42%" />
 </td>
 <td valign="top" width="50%">
 
