@@ -1,4 +1,7 @@
 ## Hi there 👋
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=360&text=Challenging+Data+Engineer&fontSize=50&fontAlign=50&fontAlignY=40&desc=Passion%2C+Challenge%2C+Sincerity&descSize=20&descAlign=50&descAlignY=60)
+
 ### 🚩 Algorithm Ranking
 [![Algorithm Ranking](https://mazassumnida.wtf/api/v2/generate_badge?boj=koreatstm)](https://solved.ac/profile/koreatstm)
 
@@ -7,8 +10,6 @@
 ![Java](https://img.shields.io/badge/Java-000000.svg?&style=for-the-badge) ![Kotlin](https://img.shields.io/badge/kotlin-7F52FF.svg?&style=for-the-badge&logo=kotlin&logoColor=white) ![Python](https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white) ![Spring Boot](https://img.shields.io/badge/springboot-6DB33F.svg?&style=for-the-badge&logo=springboot&logoColor=white) ![Django](https://img.shields.io/badge/django-092E20.svg?&style=for-the-badge&logo=django&logoColor=white) ![MongoDB](https://img.shields.io/badge/mongodb-47A248.svg?&style=for-the-badge&logo=mongodb&logoColor=white) ![mysql](https://img.shields.io/badge/mysql-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white) ![Amazon AWS](https://img.shields.io/badge/amazonaws-232F3E.svg?&style=for-the-badge&logo=amazonaws&logoColor=white) ![Docker](https://img.shields.io/badge/docker-2496ED.svg?&style=for-the-badge&logo=docker&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-D24939.svg?&style=for-the-badge&logo=jenkins&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/githubactions-2088FF.svg?&style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-F05032.svg?&style=for-the-badge&logo=git&logoColor=white) ![Notion](https://img.shields.io/badge/notion-000000.svg?&style=for-the-badge&logo=notion&logoColor=white) ![Slack](https://img.shields.io/badge/slack-4A154B.svg?&style=for-the-badge&logo=slack&logoColor=white) 
 
 **🛠️ Infra and Tools**
-
-![hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseongjju&edge_flat=false&title=hits)
 
 <!--
 **seongjju/seongjju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
