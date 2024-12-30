@@ -15,14 +15,6 @@
 ![MongoDB](https://img.shields.io/badge/mongodb-47A248.svg?&style=for-the-badge&logo=mongodb&logoColor=white) 
 ![mysql](https://img.shields.io/badge/mysql-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white)
 
-![java](https://img.shields.io/badge/java-000000.svg?&style=for-the-badge) 
-![kotlin](https://img.shields.io/badge/kotlin-7F52FF.svg?&style=for-the-badge&logo=kotlin&logoColor=white) 
-![python](https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white) 
-![spring boot](https://img.shields.io/badge/springboot-6DB33F.svg?&style=for-the-badge&logo=springboot&logoColor=white) 
-![django](https://img.shields.io/badge/django-092E20.svg?&style=for-the-badge&logo=django&logoColor=white) 
-![mongodb](https://img.shields.io/badge/mongodb-47A248.svg?&style=for-the-badge&logo=mongodb&logoColor=white) 
-![mysql](https://img.shields.io/badge/mysql-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white)
-
 
 **🛠️ Infra and Tools**
 
@@ -34,8 +26,29 @@
 ![Notion](https://img.shields.io/badge/notion-000000.svg?&style=for-the-badge&logo=notion&logoColor=white) 
 ![Slack](https://img.shields.io/badge/slack-4A154B.svg?&style=for-the-badge&logo=slack&logoColor=white)
 
+### 🦾 Contact me 
 
-<p><a href="https://www.x.com/mokkapps"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> <a href="https://www.linkedin.com/in/mokkapps"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://www.instagram.com/mokkapps/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a> <a href="https://www.youtube.com/@mokkapps"><img src="https://img.shields.io/badge/youtube-%2312100E.svg?&style=for-the-badge&logo=youtube&logoColor=white" height=25></a> <a href="https://medium.com/@MokkappsDev"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=25></a> <a href="https://dev.to/mokkapps"><img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" height=25></a></p>
+<p>
+<a href="https://www.linkedin.com/in/%EC%84%B1%EC%A3%BC-%EC%A0%95-3a232b307/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
+<a href="https://www.linkedin.com/in/%EC%84%B1%EC%A3%BC-%EC%A0%95-3a232b307/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
+<a href="https://www.linkedin.com/in/%EC%84%B1%EC%A3%BC-%EC%A0%95-3a232b307/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
+  
+![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white) ![GitHub](https://img.shields.io/badge/github-181717.svg?&style=for-the-badge&logo=github&logoColor=white) ![Tistory](https://img.shields.io/badge/tistory-000000.svg?&style=for-the-badge&logo=tistory&logoColor=white) 
+ 
+</p>
+
+<p>
+  <a href="https://www.linkedin.com/in/%EC%84%B1%EC%A3%BC-%EC%A0%95-3a232b307/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="25">
+  </a>
+  <a href="https://github.com/seongjju">
+    <img src="https://img.shields.io/badge/github-181717.svg?&style=for-the-badge&logo=github&logoColor=white" height="25">
+  </a>
+  <a href="https://koreatstm.tistory.com/">
+    <img src="https://img.shields.io/badge/tistory-000000.svg?&style=for-the-badge&logo=tistory&logoColor=white" height="25">
+  </a>
+</p>
+
 
 
 <img src='https://x.tw93.fun/images/hi.gif' alt='Hi' width="20"/> Hi,I'm seongju Jeong
