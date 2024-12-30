@@ -62,7 +62,6 @@
 #### 📝 GitHub Stats
 
 
---- <p><img src="https://github-readme-stats.vercel.app/api?username=seongjju&amp;show_icons=true" alt="GitHub Stats"></p> ---
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seongjju&exclude_repo=seongjju.github.io&layout=compact&theme=tokyonight" /></p>
 
 
@@ -71,7 +70,6 @@
 
 #### 🏆 Top Langs
 
---- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seongjju&layout=compact) ---
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seongjju&exclude_repo=seongjju.github.io&layout=compact&theme=tokyonight" />
 
 </td>
