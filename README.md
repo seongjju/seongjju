@@ -7,7 +7,7 @@
 
 **🧑‍💻 Lang and Frameworks**
 
-![Java](https://img.shields.io/badge/Java-000000.svg?&style=for-the-badge) 
+![Javas](https://img.shields.io/badge/Java-000000.svg?&style=for-the-badge) 
 ![Kotlin](https://img.shields.io/badge/kotlin-7F52FF.svg?&style=for-the-badge&logo=kotlin&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white) 
 ![Spring Boot](https://img.shields.io/badge/springboot-6DB33F.svg?&style=for-the-badge&logo=springboot&logoColor=white) 
