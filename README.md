@@ -60,11 +60,11 @@
 #### 🤾‍♂️ <a href="https://tw93.fun" target="_blank">Recent Blog</a>
 
 <!-- blog starts -->
-* <a href='https://koreatstm.tistory.com/214' target='_blank'>别相信直觉 - 读书笔记</a> - 2024-10-13
-* <a href='https://koreatstm.tistory.com/214' target='_blank'>聊聊未来技术趋势</a> - 2024-09-09
-* <a href='https://koreatstm.tistory.com/214' target='_blank'>置身事内 - 读书笔记</a> - 2024-06-30
-* <a href='https://koreatstm.tistory.com/214' target='_blank'>我居然用回有线耳机了</a> - 2024-05-08
-* <a href='https://koreatstm.tistory.com/214' target='_blank'>埃隆·马斯克传 - 读书笔记</a> - 2024-04-14
+* <a href='https://koreatstm.tistory.com/214' target='_blank'>빅데이터 커리어 가이드북</a> - 2024-12-24
+* <a href='https://koreatstm.tistory.com/213' target='_blank'>Docker Image</a> - 2024-12-06
+* <a href='https://koreatstm.tistory.com/212' target='_blank'>Use Docker</a> - 2024-12-05
+* <a href='https://koreatstm.tistory.com/211' target='_blank'>Container&Docker</a> - 2024-12-04
+* <a href='https://koreatstm.tistory.com/210' target='_blank'>우리 FISA AI엔지니어링 지원 후기</a> - 2024-11-28
 <!-- blog ends -->
 
 </td>
