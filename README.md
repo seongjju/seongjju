@@ -1,7 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=360&text=Challenging+Data+Engineer&fontSize=50&fontAlign=50&fontAlignY=40&desc=Passion%2C+Challenge%2C+Sincerity&descSize=20&descAlign=50&descAlignY=60)
 
-### 🚩 Algorithm Ranking
-[![Algorithm Ranking](https://mazassumnida.wtf/api/v2/generate_badge?boj=koreatstm)](https://solved.ac/profile/koreatstm)
 
 
 <h2>GitHub Stats</h2>
@@ -29,11 +27,16 @@
 <tr>
 <td valign="top" width="50%">
 
-### 🚌 Top Langs
+#### 🚌 <a href="https://tw93.fun" target="_blank">Top Langs</a>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seongjju&layout=compact)
 
 </td>
 <td valign="top" width="50%">
+
+#### 🚩 Algorithm Ranking
+
+[![Algorithm Ranking](https://mazassumnida.wtf/api/v2/generate_badge?boj=koreatstm)](https://solved.ac/profile/koreatstm)
 
 #### 🪂 <a href="https://github.com/tw93/tw93/blob/master/releases.md" target="_blank">Product Releases</a>
 
@@ -50,7 +53,7 @@
 <tr>
 <td valign="top" width="50%">
 
-#### 🤾‍♂️ <a href="https://tw93.fun" target="_blank">Recent Blog</a>
+#### 🤾‍♂️ <a href="https://koreatstm.tistory.com/" target="_blank">Recent Blog</a>
 
 <!-- blog starts -->
 * <a href='https://koreatstm.tistory.com/214' target='_blank'>빅데이터 커리어 가이드북</a> - 2024-12-24
