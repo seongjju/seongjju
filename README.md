@@ -5,7 +5,7 @@
 
 ### 🦾 Skills
 
-**🧑‍💻 Lang and Frameworks**
+**💻 Lang and Frameworks**
 
 ![Java](https://img.shields.io/badge/Java-000000.svg?&style=for-the-badge) 
 ![Kotlin](https://img.shields.io/badge/kotlin-7F52FF.svg?&style=for-the-badge&logo=kotlin&logoColor=white) 
@@ -30,6 +30,7 @@
 [![GitHub](https://img.shields.io/badge/github-181717.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/seongjju)
 [![Tistory](https://img.shields.io/badge/tistory-000000.svg?&style=for-the-badge&logo=tistory&logoColor=white)](https://koreatstm.tistory.com/)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%EC%84%B1%EC%A3%BC-%EC%A0%95-3a232b307/)
+[![Portfolio](https://img.shields.io/badge/portfolio-000000.svg?&style=for-the-badge&logo=portfolio&logoColor=white)](https://your-portfolio-link.com) <!-- 여기에 포트폴리오 링크를 추가 -->
 
 
 
@@ -40,7 +41,7 @@
 
 <td valign="top" width="50%">
 
-#### 👋 GitHub Stats
+#### 📝 GitHub Stats
 
 
 <p><img src="https://github-readme-stats.vercel.app/api?username=seongjju&amp;show_icons=true" alt="GitHub Stats"></p>
@@ -49,7 +50,7 @@
 </td>
 <td valign="top" width="50%">
 
-#### 🚌 Top Langs
+#### 🏆 Top Langs
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seongjju&layout=compact)
 
