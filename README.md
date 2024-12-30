@@ -22,6 +22,16 @@
 
 <table width="960px">
 <tr>
+
+<td valign="top" width="50%">
+
+#### 👋 GitHub Stats
+
+
+<p><img src="https://github-readme-stats.vercel.app/api?username=seongjju&amp;show_icons=true" alt="GitHub Stats"></p>
+
+
+</td>
 <td valign="top" width="50%">
 
 #### 🚌 Top Langs
@@ -51,15 +61,7 @@
 <!-- blog ends -->
 
 </td>
-<td valign="top" width="50%">
 
-#### 👋 GitHub Stats
-
-
-<p><img src="https://github-readme-stats.vercel.app/api?username=seongjju&amp;show_icons=true" alt="GitHub Stats"></p>
-
-
-</td>
 </tr>
 
 </table>
