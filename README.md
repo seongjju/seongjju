@@ -55,7 +55,7 @@
 
 #### 🏆 Top Langs
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seongjju&exclude_repo=seongjju.github.io&layout=compact&theme=tokyonight" style="width: 350px;" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seongjju&exclude_repo=seongjju.github.io&layout=compact&theme=tokyonight" style="width: 300px;" />
 </td>
 
 </tr>
