@@ -2,9 +2,6 @@
 
 
 
-<h2>GitHub Stats</h2>
-<p><img src="https://github-readme-stats.vercel.app/api?username=seongjju&amp;show_icons=true" alt="GitHub Stats"></p>
-
 
 ### 🦾 Skills
 **🧑‍💻 Lang and Frameworks**
@@ -27,7 +24,7 @@
 <tr>
 <td valign="top" width="50%">
 
-#### 🚌 <a href="https://tw93.fun" target="_blank">Top Langs</a>
+#### 🚌 Top Langs
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seongjju&layout=compact)
 
@@ -37,16 +34,6 @@
 #### 🚩 Algorithm Ranking
 
 [![Algorithm Ranking](https://mazassumnida.wtf/api/v2/generate_badge?boj=koreatstm)](https://solved.ac/profile/koreatstm)
-
-#### 🪂 <a href="https://github.com/tw93/tw93/blob/master/releases.md" target="_blank">Product Releases</a>
-
-<!-- recent_releases starts -->
-* <a href='https://github.com/tw93/Pake/releases/tag/V3.0.3' target='_blank'>Pake V3.0.3 Major update</a> - 2024-12-21
-* <a href='https://github.com/tw93/MiaoYan/releases/tag/V1.15.0' target='_blank'>MiaoYan V1.15 Long time no see 🥂</a> - 2024-05-26
-* <a href='https://github.com/tw93/weekly/releases/tag/V0.6.0' target='_blank'>weekly Faster and Lighter ✈️</a> - 2024-05-07
-* <a href='https://github.com/tw93/tw93.github.io/releases/tag/V0.5.0' target='_blank'>tw93.github.io English version blog</a> - 2024-03-01
-* <a href='https://github.com/tw93/Maple/releases/tag/V1.10' target='_blank'>Maple V1.10 More Comprehensive</a> - 2023-09-13
-<!-- recent_releases ends -->
 
 </td>
 </tr>
@@ -66,9 +53,13 @@
 </td>
 <td valign="top" width="50%">
 
-#### 🩴 <a href="https://weekly.tw93.fun" target="_blank">Trend Weekly</a>
+#### 👋 GitHub Stats
 
 <!-- weekly starts -->
+
+
+<h2>GitHub Stats</h2>
+<p><img src="https://github-readme-stats.vercel.app/api?username=seongjju&amp;show_icons=true" alt="GitHub Stats"></p>
 
 * <a href='https://weekly.tw93.fun/posts/206-%E6%A0%87%E8%87%B4%E7%9A%84%E7%8B%97/' target='_blank'>第206期 - 标致的狗</a> - 2024-12-30
 * <a href='https://weekly.tw93.fun/posts/205-%E5%90%AC%E5%BC%A0%E4%BF%A1%E5%93%B2/' target='_blank'>第205期 - 听张信哲</a> - 2024-12-23
