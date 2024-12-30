@@ -48,14 +48,14 @@
 
 #### 📝 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=seongjju&theme=tokyonight&show_icons=true" width="100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=seongjju&theme=tokyonight&show_icons=true" style="width: 400px; height: 200px;" />
 </td>
 
 <td valign="top" width="50%">
 
 #### 🏆 Top Langs
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seongjju&exclude_repo=seongjju.github.io&layout=compact&theme=tokyonight" width="100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seongjju&exclude_repo=seongjju.github.io&layout=compact&theme=tokyonight" style="width: 400px; height: 200px;" />
 </td>
 
 </tr>
