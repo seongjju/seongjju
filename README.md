@@ -1,6 +1,6 @@
 <img src='https://x.tw93.fun/images/hi.gif' alt='Hi' width="20"/> Hi,I'm seongju Jeong
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&text=Challenging+Data+Engineer&fontSize=50&fontAlign=50&fontAlignY=40&desc=Passion%2C+Challenge%2C+Sincerity&descSize=20&descAlign=50&descAlignY=60)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&text=A+Person+who+challenges&fontSize=50&fontAlign=50&fontAlignY=40&desc=Passion%2C+Challenge%2C+Sincerity&descSize=20&descAlign=50&descAlignY=60)
 
 
 
