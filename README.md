@@ -27,7 +27,6 @@
 **🦾 Data Pipeline and Monitoring**
 
 ![Apache Airflow](https://img.shields.io/badge/apacheairflow-017CEE.svg?&style=for-the-badge&logo=apacheairflow&logoColor=white)
-![Elasticsearch](https://img.shields.io/badge/elasticsearch-005571.svg?&style=for-the-badge&logo=elasticsearch&logoColor=white) 
 ![Prometheus](https://img.shields.io/badge/prometheus-E6522C.svg?&style=for-the-badge&logo=prometheus&logoColor=white) 
 ![Grafana](https://img.shields.io/badge/grafana-F46800.svg?&style=for-the-badge&logo=grafana&logoColor=white) 
 
@@ -55,23 +54,7 @@
 
 
 <table width="960px">
-<tr>
 
-<td valign="top" width="50%" style="vertical-align: top;">
-
-#### 📝 GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=seongjju&theme=tokyonight&show_icons=true" style="width: 400px;" />
-</td>
-
-<td valign="top" width="50%" style="vertical-align: top;">
-
-#### 🏆 Top Langs
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seongjju&exclude_repo=seongjju.github.io&layout=compact&theme=tokyonight" style="width: 327px;" />
-</td>
-
-</tr>
 <tr>
 <td valign="top" width="50%">
 
