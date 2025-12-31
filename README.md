@@ -24,18 +24,27 @@
 ![Flask](https://img.shields.io/badge/flask-000000.svg?&style=for-the-badge&logo=flask&logoColor=white) 
 ![Spring Boot](https://img.shields.io/badge/springboot-6DB33F.svg?&style=for-the-badge&logo=springboot&logoColor=white) 
 
-**🦾 Data Pipeline and Monitoring**
-
-![Apache Airflow](https://img.shields.io/badge/apacheairflow-017CEE.svg?&style=for-the-badge&logo=apacheairflow&logoColor=white)
-![Prometheus](https://img.shields.io/badge/prometheus-E6522C.svg?&style=for-the-badge&logo=prometheus&logoColor=white) 
-![Grafana](https://img.shields.io/badge/grafana-F46800.svg?&style=for-the-badge&logo=grafana&logoColor=white) 
-
-
 **🗄️ Database**  
 
 ![mysql](https://img.shields.io/badge/mysql-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/mongodb-47A248.svg?&style=for-the-badge&logo=mongodb&logoColor=white) 
 ![Redis](https://img.shields.io/badge/redis-DC382D.svg?&style=for-the-badge&logo=redis&logoColor=white) 
+
+
+**🦾 Data Pipeline**
+
+![Apache Airflow](https://img.shields.io/badge/apacheairflow-017CEE.svg?&style=for-the-badge&logo=apacheairflow&logoColor=white)
+
+**🗄️Web Scraping**
+
+![Scrapy](https://img.shields.io/badge/scrapy-E6522C.svg?&style=for-the-badge&logo=scrapy&logoColor=white)
+![Selenium](https://img.shields.io/badge/selenium-6DB33F.svg?&style=for-the-badge&logo=selenium&logoColor=white) 
+
+**🦾 Monitoring**
+
+![Prometheus](https://img.shields.io/badge/prometheus-E6522C.svg?&style=for-the-badge&logo=prometheus&logoColor=white) 
+![Grafana](https://img.shields.io/badge/grafana-F46800.svg?&style=for-the-badge&logo=grafana&logoColor=white) 
+
 
 
 **🛠️ Tools**  
@@ -45,7 +54,7 @@
 ![Slack](https://img.shields.io/badge/slack-4A154B.svg?&style=for-the-badge&logo=slack&logoColor=white)
 ![jira](https://img.shields.io/badge/jira-0052CC.svg?&style=for-the-badge&logo=jira&logoColor=white)
 
-###About me  
+### About me  
 
 [![Portfolio](https://img.shields.io/badge/portfolio-000000.svg?&style=for-the-badge&logo=portfolio&logoColor=white)](https://www.seongjudev.link) 
 [![GitHub](https://img.shields.io/badge/github-181717.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/seongjju)
