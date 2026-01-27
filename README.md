@@ -1,9 +1,8 @@
-<img src='https://x.tw93.fun/images/hi.gif' alt='Hi' width="20"/> Hi,I'm seongju Jeong
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&text=A+Person+who+challenges&fontSize=50&fontAlign=50&fontAlignY=40&desc=Passion%2C+Challenge%2C+Sincerity&descSize=20&descAlign=50&descAlignY=60)
-
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&width=100%&text=A+Person+who+challenges&fontSize=50&fontAlign=50&fontAlignY=40&desc=Passion%2C+Challenge%2C+Sincerity&descSize=20&descAlign=50&descAlignY=60)
 
 
+<!--
 
 
 ### Skills
@@ -54,6 +53,9 @@
 ![Slack](https://img.shields.io/badge/slack-4A154B.svg?&style=for-the-badge&logo=slack&logoColor=white)
 ![jira](https://img.shields.io/badge/jira-0052CC.svg?&style=for-the-badge&logo=jira&logoColor=white)
 
+
+-->
+
 ### About me  
 
 [![Portfolio](https://img.shields.io/badge/portfolio-000000.svg?&style=for-the-badge&logo=portfolio&logoColor=white)](https://www.seongjudev.link) 
@@ -61,6 +63,74 @@
 [![Tistory](https://img.shields.io/badge/tistory-000000.svg?&style=for-the-badge&logo=tistory&logoColor=white)](https://koreatstm.tistory.com/)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%EC%84%B1%EC%A3%BC-%EC%A0%95-3a232b307/)
 
+
+
+
+
+
+
+
+# Hi, I'm SeongJu 👋
+
+Junior Data Engineer focused on **data collection, pipeline reliability, and data quality**.
+
+I enjoy building systems that reliably collect, validate, and deliver data so that downstream users can trust what they see.
+
+---
+
+## 🧭 About Me
+
+* Junior Data Engineer with a strong focus on large-scale data collection and processing
+* Comfortable working close to real-world data: messy, incomplete, and constantly changing
+* Value **maintainability, observability, and continuous improvement** over one-off solutions
+* Believe good data systems are built through clear communication and iteration
+
+
+---
+
+## What I Do
+
+* Design and operate **data pipelines** that collect data from internal and external sources
+* Build and maintain **web crawling systems** for large-scale e-commerce data
+* Monitor and improve **data quality** (schema, duplication, missing values, consistency)
+* Focus on improving collection success rate and operational stability
+
+---
+
+## How I Think
+
+* Prefer solving problems by first understanding **data flow and failure points**
+* Actively look for efficiency in repetitive tasks through automation
+* Care about performance, but never at the cost of clarity and reliability
+* Learn fast and adapt tools as requirements evolve
+---
+
+
+## Values
+
+* I value ownership, clear communication, and continuous improvement.
+* I approach unfamiliar problems proactively, treat failures as learning opportunities, and focus on building reliable data systems that teams can trust and operate at scale.
+
+---
+
+## 🛠 Tech & Tools (Evolving)
+
+> My tech stack is intentionally kept flexible.
+> I update this as I gain hands-on experience in production environments.
+* Streaming & Messaging: Experience working around event-driven data systems
+
+* **Languages**: Python, SQL
+* **Data Collection**: Scrapy, Chromium-based automation
+* **Backend / APIs**: FastAPI
+* **Databases**: Relational & NoSQL databases
+* **Data Pipelines**: Workflow orchestration & batch processing
+* **Cloud & Infra**: AWS-based environments, containerized workloads
+* **Collaboration**: GitHub, CI/CD workflows
+
+
+---
+
+Thanks for stopping by — always happy to connect and learn together.
 
 <table width="960px">
 
