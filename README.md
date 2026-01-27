@@ -56,19 +56,6 @@
 
 -->
 
-### About me  
-
-[![Portfolio](https://img.shields.io/badge/portfolio-000000.svg?&style=for-the-badge&logo=portfolio&logoColor=white)](https://www.seongjudev.link) 
-[![GitHub](https://img.shields.io/badge/github-181717.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/seongjju)
-[![Tistory](https://img.shields.io/badge/tistory-000000.svg?&style=for-the-badge&logo=tistory&logoColor=white)](https://koreatstm.tistory.com/)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%EC%84%B1%EC%A3%BC-%EC%A0%95-3a232b307/)
-
-
-
-
-
-
-
 
 # Hi, I'm SeongJu 👋
 
@@ -78,7 +65,7 @@ I enjoy building systems that reliably collect, validate, and deliver data so th
 
 ---
 
-## 🧭 About Me
+## About Me
 
 * Junior Data Engineer with a strong focus on large-scale data collection and processing
 * Comfortable working close to real-world data: messy, incomplete, and constantly changing
@@ -113,7 +100,7 @@ I enjoy building systems that reliably collect, validate, and deliver data so th
 
 ---
 
-## 🛠 Tech & Tools (Evolving)
+## Tech & Tools  
 
 > My tech stack is intentionally kept flexible.
 > I update this as I gain hands-on experience in production environments.
