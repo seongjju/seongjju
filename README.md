@@ -59,52 +59,39 @@
 
 # Hi, I'm SeongJu 👋
 
-Junior Data Engineer focused on **data collection, pipeline reliability, and data quality**.
+Data Engineer focused on **data collection, pipeline reliability, and data quality**.
 
-I enjoy building systems that reliably collect, validate, and deliver data so that downstream users can trust what they see.
+I build reliable systems that collect, validate, and deliver large-scale data for trustworthy insights.
 
 ---
 
 ## About Me
 
-* Junior Data Engineer with a strong focus on large-scale data collection and processing
-* Comfortable working close to real-world data: messy, incomplete, and constantly changing
-* Value **maintainability, observability, and continuous improvement** over one-off solutions
-* Believe good data systems are built through clear communication and iteration
-
+Data Engineer passionate about building reliable data systems that handle messy, large-scale data.
 
 ---
 
 ## What I Do
 
-* Design and operate **data pipelines** that collect data from internal and external sources
-* Build and maintain **web crawling systems** for large-scale e-commerce data
-* Monitor and improve **data quality** (schema, duplication, missing values, consistency)
-* Focus on improving collection success rate and operational stability
+Design and operate data pipelines, maintain web crawling systems, and ensure data quality & operational stability.
 
 ---
 
 ## How I Think
 
-* Prefer solving problems by first understanding **data flow and failure points**
-* Actively look for efficiency in repetitive tasks through automation
-* Care about performance, but never at the cost of clarity and reliability
-* Learn fast and adapt tools as requirements evolve
+Focus on understanding data flow, automating repetitive tasks, and balancing performance with clarity.
+
+
 ---
 
 
 ## Values
 
-* I value ownership, clear communication, and continuous improvement.
-* I approach unfamiliar problems proactively, treat failures as learning opportunities, and focus on building reliable data systems that teams can trust and operate at scale.
+Ownership, clear communication, continuous improvement, and treating failures as learning opportunities.
 
 ---
 
 ## Tech & Tools  
-
-> My tech stack is intentionally kept flexible.
-> I update this as I gain hands-on experience in production environments.
-* Streaming & Messaging: Experience working around event-driven data systems
 
 * **Languages**: Python, SQL
 * **Data Collection**: Scrapy, Chromium-based automation
@@ -131,15 +118,15 @@ Thanks for stopping by — always happy to connect and learn together.
 </td>  
 <td valign="top" width="50%">
 
-#### 🔥 Reader Favorites
-<p><a href="https://koreatstm.tistory.com/">➡️ More blog posts</a></p>
+#### 📚 Blog Highlights
+<p><a href="https://koreatstm.tistory.com/">→ View all posts</a></p>
 
 <!-- blog starts -->
-* <a href='https://koreatstm.tistory.com/158' target='_blank'>AWS SAA-C03 후기</a> - 2024-08-29
-* <a href='https://koreatstm.tistory.com/147' target='_blank'>TOPCIT 후기</a> - 2024-06-25
-* <a href='https://koreatstm.tistory.com/194' target='_blank'>SAA 드디어 땄다!!! 🥳🥳🥳🥳</a> - 2024-09-20
-* <a href='https://koreatstm.tistory.com/146' target='_blank'>SQLD 합격 후기</a> - 2024-06-25
-* <a href='https://koreatstm.tistory.com/210' target='_blank'>우리 FISA AI엔지니어링 지원 후기</a> - 2024-11-28
+* <a href='https://koreatstm.tistory.com/158' target='_blank'>AWS SAA-C03 후기</a> <sub>(2024-08-29)</sub></li>
+* <a href='https://koreatstm.tistory.com/147' target='_blank'>TOPCIT 후기</a> <sub>(2024-06-25)</sub></li>
+* <a href='https://koreatstm.tistory.com/194' target='_blank'>SAA 드디어 땄다!!! 🥳🥳🥳🥳</a> <sub>(2024-09-20)</sub></li>
+* <a href='https://koreatstm.tistory.com/146' target='_blank'>SQLD 합격 후기</a> <sub>(2024-06-25)</sub></li>
+* <a href='https://koreatstm.tistory.com/210' target='_blank'>우리 FISA AI엔지니어링 지원 후기</a> <sub>(2024-11-28)</sub></li>
 
 
 <!-- blog ends -->
