@@ -97,9 +97,10 @@ Ownership, clear communication, continuous improvement, and treating failures as
 * **Data Collection**: Scrapy, Chromium-based automation
 * **Backend / APIs**: FastAPI
 * **Databases**: Relational & NoSQL databases
-* **Data Pipelines**: Workflow orchestration & batch processing
-* **Cloud & Infra**: AWS-based environments, containerized workloads
+* **Data Pipelines**: Apache Airflow, batch processing
+* **Cloud & Infra**: AWS-based environments (S3, Athena, Glue, Redshift), containerized workloads
 * **Collaboration**: GitHub, CI/CD workflows
+* **Monitoring**: Grafana
 
 
 ---
