@@ -1,4 +1,3 @@
-
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&width=100%&text=A+Person+who+challenges&fontSize=50&fontAlign=50&fontAlignY=40&desc=Passion%2C+Challenge%2C+Sincerity&descSize=20&descAlign=50&descAlignY=60)
 
 
@@ -107,8 +106,26 @@ Ownership, clear communication, continuous improvement, and treating failures as
 
 Thanks for stopping by — always happy to connect and learn together.
 
-<table width="960px">
+---
 
+## 📊 GitHub Analytics
+
+<table width="960px">
+<tr>
+<td valign="top" width="50%">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=seongjju&theme=tokyonight" width="100%"/>
+
+</td>
+<td valign="top" width="50%">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=seongjju&theme=tokyonight" width="100%"/>
+
+</td>
+</tr>
+</table>
+
+<table width="960px">
 <tr>
 <td valign="top" width="50%">
 
@@ -116,24 +133,21 @@ Thanks for stopping by — always happy to connect and learn together.
 
 [![Algorithm Ranking](https://mazassumnida.wtf/api/v2/generate_badge?boj=koreatstm)](https://solved.ac/profile/koreatstm)
 
-</td>  
+</td>
 <td valign="top" width="50%">
 
 #### 📚 Blog Highlights
-<p><a href="https://koreatstm.tistory.com/">→ View all posts</a></p>
+
+[→ View all posts](https://koreatstm.tistory.com/)
 
 <!-- blog starts -->
-* <a href='https://koreatstm.tistory.com/158' target='_blank'>AWS SAA-C03 후기</a> <sub>(2024-08-29)</sub></li>
-* <a href='https://koreatstm.tistory.com/147' target='_blank'>TOPCIT 후기</a> <sub>(2024-06-25)</sub></li>
-* <a href='https://koreatstm.tistory.com/194' target='_blank'>SAA 드디어 땄다!!! 🥳🥳🥳🥳</a> <sub>(2024-09-20)</sub></li>
-* <a href='https://koreatstm.tistory.com/146' target='_blank'>SQLD 합격 후기</a> <sub>(2024-06-25)</sub></li>
-* <a href='https://koreatstm.tistory.com/210' target='_blank'>우리 FISA AI엔지니어링 지원 후기</a> <sub>(2024-11-28)</sub></li>
-
-
+* [AWS SAA-C03 후기](https://koreatstm.tistory.com/158) <sub>(2024-08-29)</sub>
+* [TOPCIT 후기](https://koreatstm.tistory.com/147) <sub>(2024-06-25)</sub>
+* [SAA 드디어 땄다!!! 🥳🥳🥳🥳](https://koreatstm.tistory.com/194) <sub>(2024-09-20)</sub>
+* [SQLD 합격 후기](https://koreatstm.tistory.com/146) <sub>(2024-06-25)</sub>
+* [우리 FISA AI엔지니어링 지원 후기](https://koreatstm.tistory.com/210) <sub>(2024-11-28)</sub>
 <!-- blog ends -->
 
 </td>
-
 </tr>
-
 </table>
