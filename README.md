@@ -1,59 +1,10 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&width=100%&text=A+Person+who+challenges&fontSize=50&fontAlign=50&fontAlignY=40&desc=Passion%2C+Challenge%2C+Sincerity&descSize=20&descAlign=50&descAlignY=60)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&width=100%&text=Hi%2C+I'm+SeongJu&fontSize=50&fontAlign=50&fontAlignY=40&desc=Passion%2C+Challenge%2C+Sincerity&descSize=20&descAlign=50&descAlignY=60)
 
+<div align="center">
 
-<!--
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6C9BD1&center=true&vCenter=true&width=700&lines=Data+Engineer+focused+on+data+collection%2C+pipeline+reliability%2C+and+data+quality.;I+build+reliable+systems+that+collect%2C+validate%2C+and+deliver+large-scale+data.)](https://git.io/typing-svg)
 
-
-### Skills
-
-**🛠️ Devops**
-
-![Amazon AWS](https://img.shields.io/badge/amazonaws-232F3E.svg?&style=for-the-badge&logo=amazonaws&logoColor=white) 
-![Docker](https://img.shields.io/badge/docker-2496ED.svg?&style=for-the-badge&logo=docker&logoColor=white) 
-![Kubernetes](https://img.shields.io/badge/kubernetes-326CE5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white) 
-![Helm](https://img.shields.io/badge/helm-0F1689.svg?&style=for-the-badge&logo=helm&logoColor=white) 
-![GitHub Actions](https://img.shields.io/badge/githubactions-2088FF.svg?&style=for-the-badge&logo=githubactions&logoColor=white) 
-![Jenkins](https://img.shields.io/badge/jenkins-D24939.svg?&style=for-the-badge&logo=jenkins&logoColor=white) 
-
-**💻 Backend**
-
-![FastAPI](https://img.shields.io/badge/fastapi-009688.svg?&style=for-the-badge&logo=fastapi&logoColor=white) 
-![Django](https://img.shields.io/badge/django-092E20.svg?&style=for-the-badge&logo=django&logoColor=white) 
-![Flask](https://img.shields.io/badge/flask-000000.svg?&style=for-the-badge&logo=flask&logoColor=white) 
-![Spring Boot](https://img.shields.io/badge/springboot-6DB33F.svg?&style=for-the-badge&logo=springboot&logoColor=white) 
-
-**🗄️ Database**  
-
-![mysql](https://img.shields.io/badge/mysql-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/mongodb-47A248.svg?&style=for-the-badge&logo=mongodb&logoColor=white) 
-![Redis](https://img.shields.io/badge/redis-DC382D.svg?&style=for-the-badge&logo=redis&logoColor=white) 
-
-
-**🦾 Data Pipeline**
-
-![Apache Airflow](https://img.shields.io/badge/apacheairflow-017CEE.svg?&style=for-the-badge&logo=apacheairflow&logoColor=white)
-
-**🗄️Web Scraping**
-
-![Scrapy](https://img.shields.io/badge/scrapy-E6522C.svg?&style=for-the-badge&logo=scrapy&logoColor=white)
-![Selenium](https://img.shields.io/badge/selenium-6DB33F.svg?&style=for-the-badge&logo=selenium&logoColor=white) 
-
-**🦾 Monitoring**
-
-![Prometheus](https://img.shields.io/badge/prometheus-E6522C.svg?&style=for-the-badge&logo=prometheus&logoColor=white) 
-![Grafana](https://img.shields.io/badge/grafana-F46800.svg?&style=for-the-badge&logo=grafana&logoColor=white) 
-
-
-
-**🛠️ Tools**  
-
-![Git](https://img.shields.io/badge/git-F05032.svg?&style=for-the-badge&logo=git&logoColor=white)
-![Notion](https://img.shields.io/badge/notion-000000.svg?&style=for-the-badge&logo=notion&logoColor=white) 
-![Slack](https://img.shields.io/badge/slack-4A154B.svg?&style=for-the-badge&logo=slack&logoColor=white)
-![jira](https://img.shields.io/badge/jira-0052CC.svg?&style=for-the-badge&logo=jira&logoColor=white)
-
-
--->
+</div>
 
 
 # Hi, I'm SeongJu 👋
@@ -80,9 +31,7 @@ Design and operate data pipelines, maintain web crawling systems, and ensure dat
 
 Focus on understanding data flow, automating repetitive tasks, and balancing performance with clarity.
 
-
 ---
-
 
 ## Values
 
@@ -90,7 +39,7 @@ Ownership, clear communication, continuous improvement, and treating failures as
 
 ---
 
-## Tech & Tools  
+## Tech & Tools
 
 * **Languages**: Python, SQL
 * **Data Collection**: Scrapy, Chromium-based automation
@@ -100,7 +49,6 @@ Ownership, clear communication, continuous improvement, and treating failures as
 * **Cloud & Infra**: AWS-based environments (S3, Athena, Glue, Redshift), containerized workloads
 * **Collaboration**: GitHub, CI/CD workflows
 * **Monitoring**: Grafana
-
 
 ---
 
@@ -124,6 +72,20 @@ Thanks for stopping by — always happy to connect and learn together.
 </td>
 </tr>
 </table>
+
+<div align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com?user=seongjju&theme=tokyonight&hide_border=true&card_width=800)
+
+</div>
+
+<div align="center">
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=seongjju&theme=tokyonight&no-frame=true&row=1&column=6)
+
+</div>
+
+---
 
 <table width="960px">
 <tr>
@@ -151,3 +113,9 @@ Thanks for stopping by — always happy to connect and learn together.
 </td>
 </tr>
 </table>
+
+<div align="center">
+
+![Visitors](https://komarev.com/ghpvc/?username=seongjju&color=6C9BD1&style=flat-square&label=Profile+Views)
+
+</div>
