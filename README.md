@@ -127,7 +127,7 @@ Thanks for stopping by — always happy to connect and learn together.
 
 <table width="960px">
 <tr>
-<td valign="top" width="50%">
+<td valign="middle" align="center" width="50%">
 
 #### 🚩 Algorithm Ranking
 
