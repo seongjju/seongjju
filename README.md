@@ -62,12 +62,12 @@ Thanks for stopping by — always happy to connect and learn together.
 <tr>
 <td valign="top" width="50%">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=seongjju&theme=tokyonight" width="100%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=seongjju&theme=tokyonight" width="470" height="260"/>
 
 </td>
 <td valign="top" width="50%">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=seongjju&theme=tokyonight" width="100%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=seongjju&theme=tokyonight" width="470" height="260"/>
 
 </td>
 </tr>
@@ -111,9 +111,3 @@ Thanks for stopping by — always happy to connect and learn together.
 </td>
 </tr>
 </table>
-
-<div align="center">
-
-![Visitors](https://komarev.com/ghpvc/?username=seongjju&color=6C9BD1&style=flat-square&label=Profile+Views)
-
-</div>
