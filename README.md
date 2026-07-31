@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&width=100%&text=Hi%2C%20I%27m%20SeongJu&fontSize=40&fontAlign=50&fontAlignY=40&desc=Passion%2C+Challenge%2C+Sincerity&descSize=20&descAlign=50&descAlignY=60)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:7aa2f7&height=200&width=100%&text=Hi%2C%20I%27m%20SeongJu&fontSize=40&fontAlign=50&fontAlignY=40&fontColor=ffffff&desc=Passion%2C+Challenge%2C+Sincerity&descSize=20&descAlign=50&descAlignY=60)
 
 <div align="center">
 
@@ -50,24 +50,30 @@ Ownership, clear communication, continuous improvement, and treating failures as
 * **Collaboration**: GitHub, CI/CD workflows
 * **Monitoring**: Grafana
 
+<div align="center">
+
+![Skills](https://skillicons.dev/icons?i=py,mysql,mongodb,redis,aws,docker,fastapi,git,github,githubactions,grafana&theme=dark)
+
+</div>
+
 ---
 
 Thanks for stopping by — always happy to connect and learn together.
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <table width="960px">
 <tr>
 <td valign="top" width="50%">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=seongjju&theme=tokyonight" width="470" height="260"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=seongjju&theme=tokyonight" width="100%"/>
 
 </td>
 <td valign="top" width="50%">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=seongjju&theme=tokyonight" width="470" height="260"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=seongjju&theme=tokyonight" width="100%"/>
 
 </td>
 </tr>
@@ -83,31 +89,3 @@ Thanks for stopping by — always happy to connect and learn together.
 </tr>
 </table>
 
----
-
-<table width="960px">
-<tr>
-<td valign="middle" align="center" width="50%">
-
-#### 🚩 Algorithm Ranking
-
-[![Algorithm Ranking](https://mazassumnida.wtf/api/v2/generate_badge?boj=koreatstm)](https://solved.ac/profile/koreatstm)
-
-</td>
-<td valign="top" width="50%">
-
-#### 📚 Blog Highlights
-
-[→ View all posts](https://koreatstm.tistory.com/)
-
-<!-- blog starts -->
-* [AWS SAA-C03 후기](https://koreatstm.tistory.com/158) <sub>(2024-08-29)</sub>
-* [TOPCIT 후기](https://koreatstm.tistory.com/147) <sub>(2024-06-25)</sub>
-* [SAA 드디어 땄다!!! 🥳🥳🥳🥳](https://koreatstm.tistory.com/194) <sub>(2024-09-20)</sub>
-* [SQLD 합격 후기](https://koreatstm.tistory.com/146) <sub>(2024-06-25)</sub>
-* [우리 FISA AI엔지니어링 지원 후기](https://koreatstm.tistory.com/210) <sub>(2024-11-28)</sub>
-<!-- blog ends -->
-
-</td>
-</tr>
-</table>
