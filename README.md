@@ -1,8 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&width=100%&text=Hi%2C+I'm+SeongJu&fontSize=50&fontAlign=50&fontAlignY=40&desc=Passion%2C+Challenge%2C+Sincerity&descSize=20&descAlign=50&descAlignY=60)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&width=100%&text=Hi%2C%20I%27m%20SeongJu&fontSize=40&fontAlign=50&fontAlignY=40&desc=Passion%2C+Challenge%2C+Sincerity&descSize=20&descAlign=50&descAlignY=60)
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6C9BD1&center=true&vCenter=true&width=700&lines=Data+Engineer+focused+on+data+collection%2C+pipeline+reliability%2C+and+data+quality.;I+build+reliable+systems+that+collect%2C+validate%2C+and+deliver+large-scale+data.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=6C9BD1&center=true&vCenter=true&width=900&lines=Data+Engineer+focused+on+data+collection%2C+pipeline+reliability%2C+and+data+quality.;I+build+reliable+systems+that+collect%2C+validate%2C+and+deliver+large-scale+data.)](https://git.io/typing-svg)
 
 </div>
 
@@ -29,7 +29,7 @@ Design and operate data pipelines, maintain web crawling systems, and ensure dat
 
 ## How I Think
 
-Focus on understanding data flow, automating repetitive tasks, and balancing performance with clarity.
+<sub>Focus on understanding data flow, automating repetitive tasks, and balancing performance with clarity.</sub>
 
 ---
 
@@ -73,17 +73,15 @@ Thanks for stopping by — always happy to connect and learn together.
 </tr>
 </table>
 
-<div align="center">
+<table width="960px">
+<tr>
+<td width="100%">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=seongjju&theme=tokyonight&hide_border=true&card_width=800)
+<img src="https://streak-stats.demolab.com?user=seongjju&theme=tokyonight&hide_border=true" width="100%"/>
 
-</div>
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=seongjju&theme=tokyonight&no-frame=true&row=1&column=6)
-
-</div>
+</td>
+</tr>
+</table>
 
 ---
 
