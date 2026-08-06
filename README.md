@@ -66,21 +66,6 @@ Thanks for stopping by — always happy to connect and learn together.
 
 <table width="960px">
 <tr>
-<td valign="top" width="50%">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=seongjju&theme=tokyonight" width="100%"/>
-
-</td>
-<td valign="top" width="50%">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=seongjju&theme=tokyonight" width="100%"/>
-
-</td>
-</tr>
-</table>
-
-<table width="960px">
-<tr>
 <td width="100%">
 
 <img src="https://streak-stats.demolab.com?user=seongjju&theme=tokyonight&hide_border=true" width="100%"/>
