@@ -47,7 +47,7 @@ Ownership, clear communication, continuous improvement, and treating failures as
 * **Data Collection**: Scrapy, Chromium-based automation
 * **Backend / APIs**: FastAPI
 * **Databases**: Relational & NoSQL databases
-* **Data Pipelines**: Apache Airflow, batch processing
+* **Data Pipelines**: Apache Airflow, Celery, batch processing
 * **Cloud & Infra**: AWS-based environments (S3, Athena, Glue, Redshift), containerized workloads
 * **Collaboration**: GitHub, CI/CD workflows
 * **Monitoring**: Grafana
@@ -55,7 +55,9 @@ Ownership, clear communication, continuous improvement, and treating failures as
 <div align="center">
 
 ![Skills](https://skillicons.dev/icons?i=py,mysql,mongodb,redis,aws,docker,fastapi,git,github,githubactions,grafana&theme=dark)
-
+<img src="assets/icons/Celery-Dark.svg" height="48" />
+<img src="assets/icons/Airflow-Dark.svg" height="48" />
+<img src="assets/icons/Scrapy-Dark.svg" height="48" />
 </div>
 
 ---
