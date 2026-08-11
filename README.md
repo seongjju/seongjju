@@ -62,8 +62,8 @@ Ownership, clear communication, continuous improvement, and treating failures as
 
 ## Github Stats
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+<!-- README-STATS:START -->
+<!-- README-STATS:END -->
 
 ---
 
