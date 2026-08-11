@@ -12,6 +12,6 @@ jobs:
     steps:
       - uses: mahyarmirrashed/action-github-readme-stats@main
         with:
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
           TIMEZONE: 'Asia/Seoul'
           FEATURES: 'DAY_STATS'
