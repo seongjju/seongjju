@@ -13,6 +13,8 @@ Data Engineer focused on **data collection, pipeline reliability, and data quali
 
 I build reliable systems that collect, validate, and deliver large-scale data for trustworthy insights.
 
+Thanks for stopping by — always happy to connect and learn together.
+
 ---
 
 ## About Me
@@ -58,7 +60,10 @@ Ownership, clear communication, continuous improvement, and treating failures as
 
 ---
 
-Thanks for stopping by — always happy to connect and learn together.
+## Github Stats
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ---
 
@@ -73,4 +78,5 @@ Thanks for stopping by — always happy to connect and learn together.
 </td>
 </tr>
 </table>
+
 
