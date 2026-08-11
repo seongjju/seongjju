@@ -10,7 +10,11 @@ jobs:
     name: Update this repo's README with commit stats
     runs-on: ubuntu-latest
     steps:
-      - uses: mahyarmirrashed/action-github-readme-stats@main
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Update README
+        uses: mahyarmirrashed/action-github-readme-stats@main
         with:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
           TIMEZONE: 'Asia/Seoul'
