@@ -31,7 +31,7 @@ Design and operate data pipelines, maintain web crawling systems, and ensure dat
 
 ## How I Think
 
-<sub>Focus on understanding data flow, automating repetitive tasks, and balancing performance with clarity.</sub>
+Focus on understanding data flow, automating repetitive tasks, and balancing performance with clarity.
 
 ---
 
