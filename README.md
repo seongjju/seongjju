@@ -77,18 +77,3 @@ Ownership, clear communication, continuous improvement, and treating failures as
 
 <!-- README-STATS:END -->
 
----
-
-## GitHub Analytics
-
-<table width="960px">
-<tr>
-<td width="100%">
-
-<img src="https://streak-stats.demolab.com?user=seongjju&theme=tokyonight&hide_border=true" width="100%"/>
-
-</td>
-</tr>
-</table>
-
-
